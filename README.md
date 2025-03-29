@@ -1,0 +1,2 @@
+# GhibliArt
+Ghibli Artwork Generator
